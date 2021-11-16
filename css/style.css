@@ -17,6 +17,15 @@ body {
   z-index: 1000;
 }
 
+.caption{
+  margin-top: -30%;
+  
+}
+
+.navbar-light{
+background-color :bisque !important;
+
+}
 
 
 /*============= FOOTER =============*/
